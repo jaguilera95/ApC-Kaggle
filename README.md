@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# ApC-Kaggle
-Spam or Not Spam Dataset
-
-By: Juan Aguilera Toro 1566837
-
-=======
->>>>>>> ad0d8ac4bca554ed191fbdd5177fadc71f91c646
 # Pràctica Kaggle APC UAB 2021-22
 ### Nom: Juan Aguilera Toro
 ### DATASET: Spam or Not Spam Dataset
