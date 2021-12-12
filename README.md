@@ -22,8 +22,5 @@ No he generat cap tipus de demo
 ## Conclusions
 El millor model que s'ha aconseguit ha estat Random Forest Classifier.
 ## Idees per treballar en un futur
-<<<<<<< HEAD
 Crec que seria interesant indagar més en tractar totes les llengues que hi apareixen en els e-mails.
-=======
-Crec que seria interesant indagar més en tractar totes les llengues que hi apareixen en els e-mails.
->>>>>>> ad0d8ac4bca554ed191fbdd5177fadc71f91c646
+
