@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # ApC-Kaggle
 Spam or Not Spam Dataset
 
 By: Juan Aguilera Toro 1566837
 
+=======
+>>>>>>> ad0d8ac4bca554ed191fbdd5177fadc71f91c646
 # Pràctica Kaggle APC UAB 2021-22
 ### Nom: Juan Aguilera Toro
 ### DATASET: Spam or Not Spam Dataset
@@ -27,4 +30,8 @@ No he generat cap tipus de demo
 ## Conclusions
 El millor model que s'ha aconseguit ha estat Random Forest Classifier.
 ## Idees per treballar en un futur
+<<<<<<< HEAD
 Crec que seria interesant indagar més en tractar totes les llengues que hi apareixen en els e-mails.
+=======
+Crec que seria interesant indagar més en tractar totes les llengues que hi apareixen en els e-mails.
+>>>>>>> ad0d8ac4bca554ed191fbdd5177fadc71f91c646
